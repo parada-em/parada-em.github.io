@@ -13,4 +13,3 @@
 ### 💡 ความสนใจและความเชี่ยวชาญ
 * **Hardware & Gaming**: เชี่ยวชาญการปรับแต่ง PC สำหรับการแข่งขันเกมระดับสูง (Valorant, PUBG) และมีความหลงใหลใน Mechanical Keyboard
 * **Technical Skills**: มีประสบการณ์ในการแก้ปัญหาทางเทคนิค (Troubleshooting), การวางระบบเครือข่าย, การติดตั้ง OS และการจัดการเว็บไซต์ด้วย WordPress/Elementor
-
