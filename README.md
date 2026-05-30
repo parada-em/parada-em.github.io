@@ -1,8 +1,8 @@
 
 <h2 align="center">🌟 ยินดีต้อนรับสู่หน้าเว็บของฉัน</h2>
+
 <div align="center">
   <img src="MyPic.jpg" width="300">
-
   <h2 align="center">สวัสดีครับ ผมชื่อนายภราดา แสงปิติ (เอ็ม)</h2>
 </div>
 ---
