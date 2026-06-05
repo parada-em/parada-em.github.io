@@ -1,35 +1,17 @@
-# Server
+## Server
 
----
+**English (Source 1 - Britannica)**   
+“A server is a network computer, computer program, or device that processes requests from a client.”
 
-### Definition
+**English (Source 2 - TechTarget)**  
+“A server is a computer program or device that provides a service to another computer program and its user, also known as the client.”
 
-**English Definition 1**  
-“A server is a computer or system that provides resources, data, services, or programs to other computers, known as clients, over a network.” — TechTarget
+**Thai**  
+Server หรือ เซิร์ฟเวอร์ คือ คอมพิวเตอร์ อุปกรณ์ หรือโปรแกรมที่ทำหน้าที่ให้บริการข้อมูล ทรัพยากร หรือแอปพลิเคชันแก่คอมพิวเตอร์หรืออุปกรณ์อื่น ๆ ที่เรียกว่า Client ผ่านเครือข่ายคอมพิวเตอร์ โดยเซิร์ฟเวอร์จะรับคำขอ (Request) จากผู้ใช้ ประมวลผลข้อมูล และส่งผลลัพธ์กลับไปยังผู้ใช้งาน
 
-**English Definition 2**  
-“A server is a powerful computer that provides shared services to other computers (clients) on a network, such as hosting websites, managing email, or storing databases.” — IBM
+ > "เซิร์ฟเวอร์เป็นหัวใจสำคัญของระบบสารสนเทศสมัยใหม่ ไม่ว่าจะเป็นเว็บไซต์ ระบบฐานข้อมูล ระบบอีเมล หรือบริการคลาวด์ต่าง ๆ โดยทำหน้าที่จัดเก็บข้อมูล ประมวลผลคำขอ และให้บริการแก่ผู้ใช้จำนวนมากพร้อมกันผ่านเครือข่าย" (ChatGPT 5.5)
 
-**Thai Definition**  
-เซิร์ฟเวอร์ (Server) คือ คอมพิวเตอร์หรือระบบซอฟต์แวร์ที่ทำหน้าที่ให้บริการทรัพยากร ข้อมูล หรือบริการต่าง ๆ แก่คอมพิวเตอร์เครื่องอื่นที่เรียกว่า "ไคลเอนต์" (Client) ภายในเครือข่าย โดยมักจะเปิดทำงานตลอดเวลาเพื่อรองรับการร้องขอข้อมูล
+ > "ในปัจจุบันเซิร์ฟเวอร์สามารถอยู่ได้ทั้งในรูปแบบเครื่องจริง (Physical Server) เครื่องเสมือน (Virtual Server) และบริการบนคลาวด์ (Cloud Server) ซึ่งช่วยให้องค์กรสามารถขยายระบบได้อย่างยืดหยุ่น ลดต้นทุนด้านฮาร์ดแวร์ และเพิ่มประสิทธิภาพในการบริหารจัดการโครงสร้างพื้นฐานด้านไอที" (Google Gemini)   
 
----
-
-### Explanation  
-Server เปรียบเสมือน "ผู้ให้บริการ" ในโลกเครือข่ายคอมพิวเตอร์ ซึ่งมีความสามารถในการประมวลผลและจัดเก็บข้อมูลที่สูงกว่าคอมพิวเตอร์ทั่วไป เพื่อให้สามารถรองรับผู้ใช้งานจำนวนมากได้พร้อมกัน หน้าที่ของเซิร์ฟเวอร์มีหลากหลายรูปแบบ ขึ้นอยู่กับการนำไปใช้งาน เช่น  
-* **Web Server**: ใช้เก็บและส่งข้อมูลเว็บไซต์ให้แก่ผู้ใช้งานผ่านเบราว์เซอร์
-* **File Server**: ใช้สำหรับจัดเก็บและแบ่งปันไฟล์ข้อมูลภายในองค์กร
-* **Database Server**: ใช้จัดการและจัดเก็บข้อมูลในระบบฐานข้อมูล
-* **Mail Server**: ใช้จัดการระบบรับ-ส่งอีเมล
-
-“Servers are the backbone of the internet, ensuring that data and services are delivered reliably to users worldwide.” — ChatGPT  
-“A server acts as a centralized hub that processes requests and distributes resources across a network.” — Gemini
-
----
-
-### References
-
-1. [TechTarget - What is a server?](https://www.techtarget.com/searchnetworking/definition/server)
-2. [IBM - What is a server?](https://www.ibm.com/topics/servers)
-3. ChatGPT
-4. Google Gemini
+* [Britannica - Server](https://www.britannica.com/technology/server)
+* [TechTarget - What is a Server?](https://www.techtarget.com/whatis/definition/server)
