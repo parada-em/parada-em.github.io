@@ -4,10 +4,10 @@
 
 ### Definition
 
-**English Definition 1**
+**English Definition 1**  
 “A virtual private network (VPN) is a technology that creates a safe and encrypted connection over a less secure network, such as the internet.” — Cisco
 
-**English Definition 2**
+**English Definition 2**  
 “A VPN extends a private network across a public network and enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network.” — TechTarget
 
 **Thai Definition**
