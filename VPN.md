@@ -1,10 +1,10 @@
 ## 1. VPN (Virtual Private Network)
 
 **English (Source 1 - AWS)**   
-“A Virtual Private Network (VPN) is a private connection between your device and the rest of the internet. A VPN establishes a private network connection between devices over the internet, allowing users to securely and anonymously transmit data over public networks.”
+“A Virtual Private Network (VPN) is a private connection between your device and the rest of the internet. Modern organizations require employees to access confidential enterprise data over the internet, for example, while working remotely or while uploading files to a cloud server. Data transfer over the internet creates risks for unauthorized data access as it travels over the network. Employees' private data, like passwords and credit card information, is also at risk. A VPN establishes a private network connection between devices over the internet, allowing users to securely and anonymously transmit data over public networks. It masks user IP addresses and encrypts data, making it unreadable to anyone unauthorized to receive it.”
 
 **English (Source 2 - IBM)**  
-“A VPN (virtual private network) is an application or service that makes an internet connection private by routing internet traffic through a secure VPN server.”
+“A VPN (virtual private network) is an application (app) or service that makes an internet connection private by routing internet traffic through a secure VPN server.”
 
 **Thai**  
 VPN (Virtual Private Network) คือ เทคโนโลยีที่ช่วยสร้างการเชื่อมต่อเครือข่ายส่วนตัวผ่านอินเทอร์เน็ตสาธารณะ โดยมีการเข้ารหัสข้อมูล (Encryption) เพื่อป้องกันการดักจับข้อมูล และช่วยซ่อนที่อยู่ IP ของผู้ใช้งาน ทำให้การรับส่งข้อมูลมีความปลอดภัยและเป็นส่วนตัวมากขึ้น
