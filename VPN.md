@@ -3,7 +3,7 @@
 **English (Source 1 - AWS)**   
 “A Virtual Private Network (VPN) is a private connection between your device and the rest of the internet. A VPN establishes a private network connection between devices over the internet, allowing users to securely and anonymously transmit data over public networks.”
 
-**English (Source 2 - Google Cloud)**  
+**English (Source 2 - IBM)**  
 “A VPN (virtual private network) is an application or service that makes an internet connection private by routing internet traffic through a secure VPN server.”
 
 **Thai**  
