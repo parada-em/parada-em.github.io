@@ -1,7 +1,7 @@
 ## Server
 
 **English (Source 1 - Britannica)**   
-“A server is a network computer, computer program, or device that processes requests from a client.”
+“server, network computer, computer program, or device that processes requests from a client (see client-server architecture).”
 
 **English (Source 2 - TechTarget)**  
 “A server is a computer program or device that provides a service to another computer program and its user, also known as the client.”
