@@ -15,4 +15,4 @@ Network Security ระบบศูนย์กลางที่รวมเค
 
 ### **🔗 Sources**
 * [Cisco - What Is a Security Platform?](https://www.cisco.com/site/us/en/learn/topics/security/what-is-a-security-platform.html)
-* [Broadcom - ฺPlatform Security](https://www.broadcom.com/topics/platform-security)
+* [Broadcom - Platform Security](https://www.broadcom.com/topics/platform-security)
