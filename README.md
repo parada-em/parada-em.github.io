@@ -37,3 +37,7 @@
 - [VPN](VPN.md)
 - [Server](Server.md)
 - [Internet](Internet.md)
+- [Network Security](Network-Security.md)
+- [Security Platform](Security-Platform.md)
+- [Openrational Cost](Openrational-Cost.md)
+
