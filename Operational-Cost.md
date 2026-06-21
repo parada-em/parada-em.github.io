@@ -1,4 +1,4 @@
-## Operating Cost
+## Operational Cost
 
 **English (Source 1 - Deskera)**   
 “Operating costs are the ongoing expenses required for a business to function effectively and sustain its day-to-day operations. These costs are crucial for maintaining the infrastructure, processes, and resources that enable a company to produce goods, deliver services, and generate revenue.”
